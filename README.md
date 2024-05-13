@@ -36,6 +36,8 @@ STEP:18 Schematic windere will be opened<br>
 ![WhatsApp Image 2024-05-05 at 11 03 01 PM (2)](https://github.com/Sricharumathy/VLSI-LAB-EXP-6/assets/159044760/94659468-32bc-4e04-97c7-e62901079e98)
 ## NAND
 ![WhatsApp Image 2024-05-05 at 11 03 08 PM](https://github.com/Sricharumathy/VLSI-LAB-EXP-6/assets/159044760/3ce118d9-70f4-4b86-a9ee-2959df2f50e2)
+![WhatsApp Image 2024-05-13 at 9 16 34 AM](https://github.com/Sricharumathy/VLSI-LAB-EXP-6/assets/159044760/35c276ea-ab90-4918-b30c-238c59a27c43)
+
 ## OUTPUT
 ![WhatsApp Image 2024-05-05 at 11 03 09 PM (1)](https://github.com/Sricharumathy/VLSI-LAB-EXP-6/assets/159044760/1838d18b-94d7-4360-b526-58ab923cd972)
 ## NOR
