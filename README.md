@@ -80,7 +80,7 @@ j.	Execute Simulation -- Net list and Run<br>
 ## OUTPUT
 ![WhatsApp Image 2024-05-05 at 11 03 09 PM (2)](https://github.com/Sricharumathy/VLSI-LAB-EXP-6/assets/159044760/3caac581-7b26-4528-b8ca-174761ccfe31)
 ## RESULT
-The schematic and somulate inverter using CADENCE is done and  verified successfully.
+The schematic and simulate inverter using CADENCE is done and  verified successfully.
 
 
 
